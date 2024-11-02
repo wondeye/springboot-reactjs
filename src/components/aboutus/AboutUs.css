@@ -1,0 +1,19 @@
+.about-us-section {
+    background-color: #fafcff; /* Dark background */
+    color: #474545; /* Light text color */
+    padding: 40px 0; /* Vertical padding */
+  }
+  
+  .about-us-section h1 {
+    font-size: 2.5rem; /* Increase size of main heading */
+  }
+  
+  .about-us-section h2 {
+    color: #585a5c; /* Light color for secondary heading */
+  }
+  
+  .about-us-section ul {
+    list-style-type: none; /* Remove bullet points */
+    padding-left: 0; /* Remove default padding */
+  }
+  
